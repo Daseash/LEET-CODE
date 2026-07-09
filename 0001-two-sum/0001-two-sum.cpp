@@ -1,20 +1,23 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> mp;  // stores number -> index
+        // Fast I/O trick to speed up execution time
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
+        unordered_map<int, int> mp;
+        mp.reserve(nums.size()); // Pre-allocate memory to avoid rehashing
         
         for (int i = 0; i < nums.size(); i++) {
             int complement = target - nums[i];
             
-            // Check if the complement exists in the map
-            if (mp.find(complement) != mp.end()) {
-                return {mp[complement], i};  // found the pair
+            if (mp.count(complement)) {
+                return {mp[complement], i};
             }
             
-            // Store current number and its index
-            mp[nums[i]] = i;  
+            mp[nums[i]] = i;
         }
         
-        return {};  // no solution (though problem guarantees one)
+        return {};
     }
 };
