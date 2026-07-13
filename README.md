@@ -9,6 +9,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0001-two-sum](https://github.com/Daseash/LEET-CODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Daseash/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
 ## Sorting
@@ -48,5 +50,14 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
