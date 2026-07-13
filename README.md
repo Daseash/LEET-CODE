@@ -10,6 +10,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0004-median-of-two-sorted-arrays](https://github.com/Daseash/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
 ## Hash Table
@@ -44,4 +45,8 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Daseash/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
