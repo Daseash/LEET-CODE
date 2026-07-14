@@ -1,42 +1,55 @@
-
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ * int val;
+ * ListNode *next;
+ * ListNode() : val(0), next(nullptr) {}
+ * ListNode(int x) : val(x), next(nullptr) {}
+ * ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        // If the list is empty or has only one node, it's already sorted.
         if (!head || !head->next) {
             return head;
         }
 
-        // Dummy node acts as the head of our new sorted list.
-        ListNode* dummy = new ListNode(0); 
-        ListNode* curr = head; 
+        // Dummy node to handle edge cases where the head changes
+        ListNode* dummy = new ListNode(0, head);
+        
+        // last_sorted points to the last node in the sorted part of the list
+        ListNode* last_sorted = head;
+        // curr points to the next node we need to evaluate
+        ListNode* curr = head->next; 
 
         while (curr != nullptr) {
-            // Start from the dummy node for each insertion to find the right spot
-            ListNode* prev = dummy;
-            
-            // Move prev forward as long as the next node's value is smaller than curr's value
-            while (prev->next != nullptr && prev->next->val < curr->val) {
-                prev = prev->next;
+            // FAST PATH: The current node is already in the right order!
+            if (last_sorted->val <= curr->val) {
+                last_sorted = last_sorted->next;
+            } 
+            // SLOW PATH: We need to find where this node belongs in the sorted portion
+            else {
+                ListNode* prev = dummy;
+                
+                // Find the insertion point
+                while (prev->next->val <= curr->val) {
+                    prev = prev->next;
+                }
+                
+                // Rewire to insert 'curr' between 'prev' and 'prev->next'
+                last_sorted->next = curr->next; // Bypass curr
+                curr->next = prev->next;        // Point curr to the right node
+                prev->next = curr;              // Point prev to curr
             }
-
-            // We found the insertion point. 
-            // First, save the next node we need to process from the original list.
-            ListNode* next_node = curr->next;
-
-            // Insert 'curr' between 'prev' and 'prev->next'
-            curr->next = prev->next;
-            prev->next = curr;
-
-            // Move on to the next node in the unsorted list
-            curr = next_node;
+            
+            // Move to the next node in the unsorted list
+            curr = last_sorted->next;
         }
 
-        // The sorted list is everything after the dummy node
         ListNode* sorted_head = dummy->next;
-        delete dummy; // Clean up our allocated memory
+        delete dummy; 
         
         return sorted_head;
     }
-};   
-    
+};
