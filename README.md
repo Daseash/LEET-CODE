@@ -67,4 +67,8 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Daseash/LEET-CODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
