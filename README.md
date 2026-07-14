@@ -13,6 +13,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
@@ -57,6 +58,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
