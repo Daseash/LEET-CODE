@@ -16,6 +16,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
+| [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
 ## Hash Table
 |  |
@@ -82,4 +83,16 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
