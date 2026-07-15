@@ -1,5 +1,6 @@
 # LEET-CODE
 THE solved problems on LEET CODE  basically solutions of my knowledge
+*Note: I update this repository regularly as I complete more problems!*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
