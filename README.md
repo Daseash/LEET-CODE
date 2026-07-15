@@ -28,6 +28,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
+| [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 ## Trie
 |  |
 | ------- |
@@ -72,8 +73,13 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Daseash/LEET-CODE/tree/master/0009-palindrome-number) |
+| [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 ## Linked List
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Daseash/LEET-CODE/tree/master/0147-insertion-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 <!---LeetCode Topics End-->
