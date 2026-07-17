@@ -12,6 +12,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
@@ -95,5 +96,10 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
