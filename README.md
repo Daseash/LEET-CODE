@@ -12,6 +12,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Daseash/LEET-CODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Daseash/LEET-CODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Daseash/LEET-CODE/tree/master/0048-rotate-image) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Daseash/LEET-CODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
