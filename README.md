@@ -19,6 +19,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Daseash/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
@@ -101,10 +102,12 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Daseash/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
