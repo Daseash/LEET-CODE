@@ -22,6 +22,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Daseash/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Daseash/LEET-CODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
 ## Hash Table
 |  |
@@ -105,9 +106,11 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Daseash/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Daseash/LEET-CODE/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Daseash/LEET-CODE/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
