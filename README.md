@@ -95,6 +95,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Daseash/LEET-CODE/tree/master/0052-n-queens-ii) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
