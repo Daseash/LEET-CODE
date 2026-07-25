@@ -30,11 +30,13 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Daseash/LEET-CODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Daseash/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Daseash/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
@@ -125,4 +127,8 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Daseash/LEET-CODE/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Daseash/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
