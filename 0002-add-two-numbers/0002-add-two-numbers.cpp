@@ -11,34 +11,36 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        // Dummy head to simplify the creation of the result list
-        ListNode* dummyHead = new ListNode(0);
-        ListNode* curr = dummyHead;
+        ListNode* head = l1; // Keep track of the head of l1 to return later
+        ListNode* prev = nullptr; // To track the last node visited in l1
         int carry = 0;
         
-        // Loop until both lists are exhausted and there is no carry left
         while (l1 != nullptr || l2 != nullptr || carry != 0) {
-            // Get the values from the current nodes, or 0 if we reached the end of a list
-            int x = (l1 != nullptr) ? l1->val : 0;
-            int y = (l2 != nullptr) ? l2->val : 0;
+            int sum = carry;
             
-            // Calculate sum and update carry
-            int sum = carry + x + y;
+            if (l1 != nullptr) {
+                sum += l1->val;
+            }
+            if (l2 != nullptr) {
+                sum += l2->val;
+                l2 = l2->next; // Advance l2
+            }
+            
             carry = sum / 10;
+            int current_digit = sum % 10;
             
-            // Create a new node with the current digit and attach it to our result list
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
-            
-            // Move to the next nodes in l1 and l2 if they exist
-            if (l1 != nullptr) l1 = l1->next;
-            if (l2 != nullptr) l2 = l2->next;
+            if (l1 != nullptr) {
+                // Modify l1 in place
+                l1->val = current_digit;
+                prev = l1;
+                l1 = l1->next; // Advance l1
+            } else {
+                // If l1 is shorter, we need to add new nodes to the end
+                prev->next = new ListNode(current_digit);
+                prev = prev->next;
+            }
         }
         
-        // Save the actual result and clean up the dummy head
-        ListNode* result = dummyHead->next;
-        delete dummyHead; 
-        
-        return result;
+        return head;
     }
 };
