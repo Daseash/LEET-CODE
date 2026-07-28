@@ -38,6 +38,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daseash/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Daseash/LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 ## Trie
@@ -77,6 +78,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Daseash/LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
