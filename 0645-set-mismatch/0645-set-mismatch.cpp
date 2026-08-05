@@ -1,28 +1,20 @@
 #include <vector>
-#include <algorithm>
 
 class Solution {
 public:
     std::vector<int> findErrorNums(std::vector<int>& nums) {
         int n = nums.size();
-        std::sort(nums.begin(), nums.end());
+        std::vector<int> count(n + 1, 0);
 
-        int duplicate = -1;
-        long long actual_sum = nums[0];
-
-        // Find the duplicate and calculate total sum of array
-        for (int i = 1; i < n; i++) {
-            if (nums[i] == nums[i - 1]) {
-                duplicate = nums[i];
-            }
-            actual_sum += nums[i];
+        for (int num : nums) {
+            count[num]++;
         }
 
-        // Expected sum of numbers from 1 to n: n * (n + 1) / 2
-        long long expected_sum = (long long)n * (n + 1) / 2;
-
-        // Missing number calculation
-        int missing = expected_sum - (actual_sum - duplicate);
+        int duplicate = -1, missing = -1;
+        for (int i = 1; i <= n; i++) {
+            if (count[i] == 2) duplicate = i;
+            else if (count[i] == 0) missing = i;
+        }
 
         return {duplicate, missing};
     }
