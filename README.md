@@ -20,6 +20,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Daseash/LEET-CODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Daseash/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
@@ -32,6 +33,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0001-two-sum](https://github.com/Daseash/LEET-CODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daseash/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Daseash/LEET-CODE/tree/master/0645-set-mismatch) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Daseash/LEET-CODE/tree/master/2815-max-pair-sum-in-an-array) |
 ## String
 |  |
@@ -57,6 +59,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Daseash/LEET-CODE/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Daseash/LEET-CODE/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +111,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Daseash/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
