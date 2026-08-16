@@ -45,6 +45,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0005-longest-palindromic-substring](https://github.com/Daseash/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Daseash/LEET-CODE/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 ## Trie
@@ -84,6 +85,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Daseash/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Daseash/LEET-CODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
@@ -142,6 +144,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Daseash/LEET-CODE/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +153,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Daseash/LEET-CODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
 ## Counting
 |  |
 | ------- |
