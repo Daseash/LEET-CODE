@@ -14,6 +14,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0033-search-in-rotated-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Daseash/LEET-CODE/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Daseash/LEET-CODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0088-merge-sorted-array) |
@@ -117,6 +118,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Daseash/LEET-CODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Daseash/LEET-CODE/tree/master/0052-n-queens-ii) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
@@ -166,4 +168,8 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Daseash/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Daseash/LEET-CODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
