@@ -12,6 +12,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0011-container-with-most-water](https://github.com/Daseash/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Daseash/LEET-CODE/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Daseash/LEET-CODE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Daseash/LEET-CODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Daseash/LEET-CODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Daseash/LEET-CODE/tree/master/0051-n-queens) |
@@ -118,6 +119,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Daseash/LEET-CODE/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Daseash/LEET-CODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Daseash/LEET-CODE/tree/master/0052-n-queens-ii) |
 | [0980-unique-paths-iii](https://github.com/Daseash/LEET-CODE/tree/master/0980-unique-paths-iii) |
