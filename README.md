@@ -51,6 +51,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Daseash/LEET-CODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Daseash/LEET-CODE/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +109,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0009-palindrome-number](https://github.com/Daseash/LEET-CODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Daseash/LEET-CODE/tree/master/0048-rotate-image) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
+| [1903-largest-odd-number-in-string](https://github.com/Daseash/LEET-CODE/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -160,6 +162,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0011-container-with-most-water](https://github.com/Daseash/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Daseash/LEET-CODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Daseash/LEET-CODE/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
