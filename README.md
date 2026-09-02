@@ -50,6 +50,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/Daseash/LEET-CODE/tree/master/0344-reverse-string) |
 | [0906-super-palindromes](https://github.com/Daseash/LEET-CODE/tree/master/0906-super-palindromes) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Daseash/LEET-CODE/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Trie
 |  |
 | ------- |
@@ -158,10 +159,12 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Daseash/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Daseash/LEET-CODE/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Daseash/LEET-CODE/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Daseash/LEET-CODE/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
