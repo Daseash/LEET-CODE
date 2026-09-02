@@ -24,6 +24,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Daseash/LEET-CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Daseash/LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0410-split-array-largest-sum](https://github.com/Daseash/LEET-CODE/tree/master/0410-split-array-largest-sum) |
 | [0645-set-mismatch](https://github.com/Daseash/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0867-transpose-matrix) |
@@ -79,6 +80,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0004-median-of-two-sorted-arrays](https://github.com/Daseash/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Daseash/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Daseash/LEET-CODE/tree/master/0074-search-a-2d-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Daseash/LEET-CODE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Daseash/LEET-CODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -94,6 +96,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Daseash/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Daseash/LEET-CODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Daseash/LEET-CODE/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Daseash/LEET-CODE/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +165,7 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Daseash/LEET-CODE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Daseash/LEET-CODE/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/Daseash/LEET-CODE/tree/master/0410-split-array-largest-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Daseash/LEET-CODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Daseash/LEET-CODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Daseash/LEET-CODE/tree/master/1903-largest-odd-number-in-string) |
@@ -182,4 +186,8 @@ THE solved problems on LEET CODE  basically solutions of my knowledge
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Daseash/LEET-CODE/tree/master/0051-n-queens) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Daseash/LEET-CODE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
